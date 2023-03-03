@@ -2,7 +2,8 @@ import React, { FC } from 'react';
 import { TextStyle, StyleSheet } from 'react-native';
 import MaskedView from '@react-native-masked-view/masked-view';
 import LinearGradient from 'react-native-linear-gradient';
-import MyText from '../components/MyText';
+
+const MyText = require('../components/MyText');
 
 interface Props {
   text: string;
