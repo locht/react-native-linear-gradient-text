@@ -42,9 +42,9 @@ Make sure that you have installed the `react-native-linear-gradient` library:
 ## Getting Started
 
 ```sh
-yarn add react-native-linear-gradient-text
+yarn add https://github.com/locht/react-native-linear-gradient-text.git
 # or
-npm install react-native-linear-gradient-text
+npm install https://github.com/locht/react-native-linear-gradient-text.git
 ```
 
 ---
