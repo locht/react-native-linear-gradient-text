@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { FC } from 'react';
 import { Text, StyleSheet, Platform } from 'react-native';
 
 /* ở font open sans chỉ có 5 styles, còn mặc định của react-native có 9 styles 
