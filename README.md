@@ -43,8 +43,6 @@ Make sure that you have installed the `react-native-linear-gradient` library:
 
 ```sh
 yarn add https://github.com/locht/react-native-linear-gradient-text.git
-# or
-npm install https://github.com/locht/react-native-linear-gradient-text.git
 ```
 
 ---
