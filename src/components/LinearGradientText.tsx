@@ -9,6 +9,7 @@ interface Props {
   colors: string[];
   start?: { x: number; y: number };
   end?: { x: number; y: number };
+  style?: TextStyle;
 }
 
 export const LinearGradientText: FC<Props> = (props) => {
@@ -64,7 +65,9 @@ const disableStyles = {
   fontWeight: 'normal'
 };
 
-export function MyText(props) {
+export const MyText: FC<Props> = (props) => {
+
+// export function MyText(props) {
   /* ở đây mình lấy giá trị fontWeight với fontStyle ra */
   const { fontWeight = 'normal', fontStyle } = StyleSheet.flatten(props.style || {});
 
