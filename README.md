@@ -19,6 +19,7 @@
 ## About
 
 Component to display text with linear gradient.
+Font GilroyFont
 
 ---
 
