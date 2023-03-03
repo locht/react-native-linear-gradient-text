@@ -90,22 +90,3 @@ const styles = StyleSheet.create({
 | start     | { x: number, y: number }                                   | { x: 0.5, y: 0 } | An optional prop. He declare the position that the gradient starts. Example `start={{ x: 0.5, y: 0 }}`.       |
 | end       | { x: number, y: number }                                   | { x: 1, y: 1 }   | Same as start, but for the of the gradient.                                                                   |
 | textStyle | [TextStyle](https://reactnative.dev/docs/text-style-props) | Default Value    | A property to change all styles that a text has.                                                              |
-
----
-
-## Author
-
-<img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="150px;" alt=""/>
- <h4>Henrique Luís Oliveira Marques</h4>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hlom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p>
-
----
-
-## License
-
-This project is under the MIT license. See the [LICENSE](./LICENSE) to learn more.
-<br>
-[Contact!](https://www.linkedin.com/in/hlom)
