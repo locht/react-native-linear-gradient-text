@@ -1,6 +1,6 @@
 {
   "name": "react-native-linear-gradient-text",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Component to display text with linear gradient.",
   "main": "dist/index.js",
   "typings": "dist/index",
