@@ -4,15 +4,6 @@ import MaskedView from '@react-native-masked-view/masked-view';
 import LinearGradient from 'react-native-linear-gradient';
 import MyText from './MyText';
 
-// interface Props {
-//   text: string;
-//   textStyle?: TextStyle;
-//   colors: string[];
-//   start?: { x: number; y: number };
-//   end?: { x: number; y: number };
-//   style?: TextStyle;
-// }
-
 export const LinearGradientText = (props) => {
   const {
     text,
