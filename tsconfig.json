@@ -22,7 +22,7 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "allowJs": true, // allow change file index tsx to index js
+    "allowJs": true,
     "target": "esnext"
   }
 }

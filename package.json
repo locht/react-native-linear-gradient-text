@@ -2,8 +2,8 @@
   "name": "react-native-linear-gradient-text",
   "version": "0.3.2",
   "description": "Component to display text with linear gradient.",
-  "main": "dist/index.js",  // add line allow change file index tsx to index js
-  "typings": "dist/index",  // add line allow change file index tsx to index js
+  "main": "dist/index.js",
+  "typings": "dist/index",
   "module": "lib/module/index",
   "react-native": "src/index.js",
   "source": "src/index",
