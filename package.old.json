@@ -2,9 +2,9 @@
   "name": "react-native-linear-gradient-text",
   "version": "0.3.2",
   "description": "Component to display text with linear gradient.",
-  "main": "dist/index.js",
-  "typings": "dist/index",
+  "main": "lib/commonjs/index",
   "module": "lib/module/index",
+  "types": "lib/typescript/src/index.d.ts",
   "react-native": "src/index.js",
   "source": "src/index",
   "files": [
@@ -14,7 +14,7 @@
   "scripts": {
     "test": "jest",
     "typescript": "tsc --skipLibCheck --noEmit",
-    "lint": "eslint \"**/*.{js}\"",
+    "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "prepare": "bob build",
     "release": "release-it",
     "example": "yarn --cwd example",
